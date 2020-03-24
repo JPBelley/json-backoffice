@@ -1,1 +1,0 @@
-scp -i ~/.amazon/first_instance.pem -r /Users/jean-philippe.belley/projets/json-to-text/* ec2-user@ec2-18-188-5-68.us-east-2.compute.amazonaws.com:/var/www/html/
